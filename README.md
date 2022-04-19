@@ -1,2 +1,2 @@
-# Loic
+# Logic
 Logic repo
