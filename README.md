@@ -1,2 +1,2 @@
 # Loic
-Logic repo
+Logic repo telugu skill hub
